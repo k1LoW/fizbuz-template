@@ -1,1 +1,3 @@
-module "fizbuz"
+module fizbuz
+
+go 1.19
